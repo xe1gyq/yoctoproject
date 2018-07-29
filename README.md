@@ -1,0 +1,4 @@
+# Cover
+
+The Yocto Project
+
